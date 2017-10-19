@@ -16,7 +16,7 @@
 
     <string-array name="theme_array">
         <item>Material-Light</item>
-        <item>YOUR-CUSTOM-THEME-NAME</item>
+        <item>RedLime-Light</item>
     </string-array>
 
 </resources>
